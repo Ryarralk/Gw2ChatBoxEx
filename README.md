@@ -29,5 +29,10 @@ Here's the different commands you can use with the application :
 
 - SHIFT + BACKSPACE : Stop the writing process. A sound will inform you that you can open a new chat box. Don't try to open a new chat box until you hear the sound.
 
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
+
 ## Licence
 [MIT](https://choosealicense.com/licenses/mit/)
