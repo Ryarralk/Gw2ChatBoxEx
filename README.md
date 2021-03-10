@@ -29,7 +29,7 @@ Here's the different commands you can use with the application :
 
 - ESC : Quit the enhanced chat box but not the application.
 
-- SHIFT + ESC : Quit the application. A little sound will confirm that it's closed. I recommend you to use this method instead of closing it via the Task Bar due to the fact that is must close some a DLL file before stopping terminating itself.
+- SHIFT + ESC : Quit the application. A little sound will confirm that it's closed. I recommend you to use this method instead of closing it via the Task Bar due to the fact that it must close some a DLL file before stopping terminating itself.
 
 - SHIFT + BACKSPACE : Stop the writing process. A sound will inform you that you can open a new chat box. Don't try to open a new chat box until you hear the sound.
 
