@@ -34,5 +34,15 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 Please make sure to update tests as appropriate.
 
+## Other informations
+
+It is possible that some Anti-Virus detect it as a false positive.
+
+Here's the VirusTotal final report : [VirusTotal](https://www.virustotal.com/gui/file/f06530f33b019afe438d58317f5905fa670c256347bb5459d8f10804a902c6a5/detection)
+
+## Support
+
+Want to support me for my work ? Feel free to support me in game Eday.4850
+
 ## Licence
 [MIT](https://choosealicense.com/licenses/mit/)
