@@ -14,7 +14,7 @@ Make sure that Guild Wars 2 is launched when you are running the ChatBoxEx. The 
 
 First of all :
 
-DO NOT MOVE AND DON'T DO ANYTHING ELSE THAT REQUIRES YOUR KEYBOARD WHILE IT IS TYPING !
+DO NOT MOVE AND DON'T DO ANYTHING ELSE THAT REQUIRES YOUR KEYBOARD WHILE IT IS TYPING ! WAIT UNTIL THE TYPING OPERATION IS COMPLETELY OVER !
 
 This is literally emulating your keyboard. If you move or quit the chat box before it finishes to type, the application will keep typing until all is done or until it is stopped.
 You can still use your mouse at the same time to move, but it's at your own risk if you miss your move and disable the chat box.
