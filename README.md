@@ -48,7 +48,7 @@ It is possible that some Anti-Virus detect it as a false positive.
 
 Here's the VirusTotal final report : [VirusTotal](https://www.virustotal.com/gui/file/f06530f33b019afe438d58317f5905fa670c256347bb5459d8f10804a902c6a5/detection)
 
-The program shouldn't be against the ToS of Guild Wars 2. Use it as your own risk. I'm not responsible if you have been banned from the game for using my program.
+The program shouldn't be against the ToS of Guild Wars 2. Use it as your own risk. I'm not responsible if you have been banned from the game for using the application.
 
 ## Support
 
