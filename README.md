@@ -10,6 +10,10 @@ You can put the executable anywhere on your computer, it will run fine.
 
 Make sure that Guild Wars 2 is launched when you are running the ChatBoxEx. The program will end automatically when you close the game.
 
+Make sure that your game is not in Fullscreen. This won't work well. Put the game in Windowed or in Borderless.
+
+The program use ENTER as default to open and close the chatbox. Make sur that the ENTER key is used to open and close the chatbox In-Game.
+
 ## Instructions
 
 First of all :
@@ -18,10 +22,6 @@ DO NOT MOVE AND DON'T DO ANYTHING ELSE THAT REQUIRES YOUR KEYBOARD WHILE IT IS T
 
 This is literally emulating your keyboard. If you move or quit the chat box before it finishes to type, the application will keep typing until all is done or until it is stopped.
 You can still use your mouse at the same time to move, but it's at your own risk if you miss your move and disable the chat box.
-
-Make sure that your game is not in Fullscreen. This won't work well. Put the game in Windowed or in Borderless.
-
-The program use ENTER as default to open and close the chatbox. Make sur that the ENTER key is used to open and close the chatbox In-Game.
 
 Here's the different commands you can use with the application :
 
