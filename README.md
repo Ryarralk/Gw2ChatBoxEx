@@ -40,6 +40,10 @@ Please make sure to update tests as appropriate.
 
 ## Other informations
 
+Emotes and commands such a /g, /emote, /e etc... are implemented and you can write a whole emote with a simple /e at the start. (avoid using /emote and prefer /e instead)
+
+All characters are working except '{' and '}', please, avoir using them. It could put a lot of nonsense instead of what you wanted to write.
+
 It is possible that some Anti-Virus detect it as a false positive.
 
 Here's the VirusTotal final report : [VirusTotal](https://www.virustotal.com/gui/file/f06530f33b019afe438d58317f5905fa670c256347bb5459d8f10804a902c6a5/detection)
