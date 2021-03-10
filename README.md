@@ -25,7 +25,7 @@ You can still use your mouse at the same time to move, but it's at your own risk
 
 Here's the different commands you can use with the application :
 
-- SHIFT + ENTER : Open the enhanced chat box. You can type as much character as you want (If can goes up to 2 billions characters). The chat box support copy-paste and multiline, but it's not perfect for the moment and you could be temporary muted by the chat.
+- SHIFT + ENTER : Open the enhanced chat box. You can type as much character as you want (It can goes up to 2 billions characters). The chat box support copy-paste and multiline, but it's not perfect for the moment and you could be temporary muted by the chat.
 
 - ENTER : When the enhanced chatbox is open, press enter to release the Kraken and let the In-Game chatbox being overflowed by all the text you wrote in the enhanced one.
 
