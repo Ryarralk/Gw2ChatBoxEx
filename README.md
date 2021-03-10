@@ -19,6 +19,10 @@ DO NOT MOVE AND DON'T DO ANYTHING ELSE THAT REQUIRES YOUR KEYBOARD WHILE IT IS T
 This is literally emulating your keyboard. If you move or quit the chat box before it finishes to type, the application will keep typing until all is done or until it is stopped.
 You can still use your mouse at the same time to move, but it's at your own risk if you miss your move and disable the chat box.
 
+Make sure that your game is not in Fullscreen. This won't work well. Put the game in Windowed or in Borderless.
+
+The program use ENTER as default to open and close the chatbox. Make sur that the ENTER key is used to open and close the chatbox In-Game.
+
 Here's the different commands you can use with the application :
 
 - SHIFT + ENTER : Open the enhanced chat box. You can type as much character as you want (If can goes up to 2 billions characters). The chat box support copy-paste and multiline, but it's not perfect for the moment and you could be temporary muted by the chat.
