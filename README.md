@@ -52,7 +52,7 @@ Here's the VirusTotal final report : [VirusTotal](https://www.virustotal.com/gui
 
 The program shouldn't be against the ToS of Guild Wars 2 as it respect the rules of 1 key = 1 action and is working the same way as a Autokey script to play music insruments. It doesn't interact at any moment with the game, only with your hardware and your OS.
 
-That said, use it as your own risk. I'm not responsible if you have been banned from the game for using the application.
+That said, use it as your own risk. I cannot be held responsible if you have been banned from the game for using the application.
 
 ## Support
 
